@@ -79,6 +79,14 @@
     "format": "png"
   }]
 }, {
+  "name": "stavanger",
+  "icons": [{
+    "url": "ipfs://bafybeighctebzusfrmvuahcswjrseyno3eaetu4oskwcu6ubivd7c7elqa",
+    "width": 280,
+    "height": 360,
+    "format": "png"
+  }]
+}, {
   "name": "vinuscan",
   "icons": [{
     "url": "ipfs://bafkreiayq7a5qncxzlilfnvpgzt4pwfxbof2qrqr2nyd2suztfummpty4i",
@@ -1257,7 +1265,7 @@
 }, {
   "name": "treasure",
   "icons": [{
-    "url": "ipfs://Qmd532nWBVgUJy8m9ajGKwb2oaFPdnB7Xngepge2sarNBm",
+    "url": "ipfs://QmQn3dhxoMDY3R2w9PZtJaVXVh9YtJaozcLesu19B7e1KQ",
     "width": 24,
     "height": 24,
     "format": "svg"
@@ -1276,6 +1284,14 @@
     "url": "ipfs://bafkreibmj6pnsiybggr3koh5hbl2saungutcwbxme6pehteg5kzpzleubu",
     "width": 331,
     "height": 331,
+    "format": "png"
+  }]
+}, {
+  "name": "pointpay",
+  "icons": [{
+    "url": "ipfs://QmPVsJrzshxQMVDSqn45aiaNJcFY8zWU27fg8vq5Mht4z7",
+    "width": 1504,
+    "height": 1504,
     "format": "png"
   }]
 }, {
@@ -3455,6 +3471,14 @@
     "format": "jpg"
   }]
 }, {
+  "name": "xyl-test",
+  "icons": [{
+    "url": "ipfs://QmYLd4jRsRiSnGERvzBGmMuXGo6q5AYhmr8UFtmXzGhRc5",
+    "width": 505,
+    "height": 505,
+    "format": "png"
+  }]
+}, {
   "name": "reichain",
   "icons": [{
     "url": "ipfs://QmNy5d5knHVjJJS9g4kLsh9i73RTjckpKL6KZvRk6ptbhf",
@@ -5389,6 +5413,14 @@
     "format": "png",
     "width": 297,
     "height": 297
+  }]
+}, {
+  "name": "memecore",
+  "icons": [{
+    "url": "ipfs://QmX2DPJqHjMRUYD4CMpXBDBpqa3p8c4DkE4iiHtcxBJe3i",
+    "width": 500,
+    "height": 500,
+    "format": "svg"
   }]
 }, {
   "name": "satoshivm",
